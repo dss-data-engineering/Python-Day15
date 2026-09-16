@@ -1,6 +1,3 @@
-from data import question_data
-
-
 class QuizBrain:
     def __init__(self, questions):
         self.question_number = 0
